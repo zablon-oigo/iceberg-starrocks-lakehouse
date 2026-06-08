@@ -13,6 +13,10 @@ This project demonstrates how to build a modern enterprise lakehouse using Apach
 
 The architecture combines the scalability and cost efficiency of object storage with the performance of a modern analytical database, enabling low-latency SQL analytics on Iceberg tables.
 
+#### Architecture Diagram
+<img width="447" height="234" alt="star excalidraw" src="https://github.com/user-attachments/assets/f0a78fd0-c74e-4f8f-8bb1-92bc55329e6b" />
+
+
 #### Quick Start
 
 Follow these steps to run the pipeline locally:
